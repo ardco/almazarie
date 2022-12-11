@@ -1,4 +1,4 @@
-from frappe.cutome.doctype.cutomize_form.customize_form import CustomizeForm
+from frappe.custom.doctype.customize_form.customize_form import CustomizeForm
 from frappe.utils import cint
 from frappe.model.document import Document
 
