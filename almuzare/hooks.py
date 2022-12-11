@@ -85,7 +85,7 @@ app_license = "MIT"
 
 override_doctype_class = {
 	# "ToDo": "custom_app.overrides.CustomToDo"
-    "custom" : "almuzare.frappe.custom.override.make_options_editable"
+    "custom" : "almuzare.custom.override.make_options_editable"
 }
 
 # Document Events
