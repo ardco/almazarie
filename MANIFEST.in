@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include almuzare *.css
+recursive-include almuzare *.csv
+recursive-include almuzare *.html
+recursive-include almuzare *.ico
+recursive-include almuzare *.js
+recursive-include almuzare *.json
+recursive-include almuzare *.md
+recursive-include almuzare *.png
+recursive-include almuzare *.py
+recursive-include almuzare *.svg
+recursive-include almuzare *.txt
+recursive-exclude almuzare *.pyc
