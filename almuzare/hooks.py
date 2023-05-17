@@ -102,7 +102,7 @@ override_doctype_class = {
 
 doc_events = {
     "Sales Invoice":{
-        "on_update":"almuzare.api.barcode"
+        "on_submit":"almuzare.api.barcode"
     }
 
 }
